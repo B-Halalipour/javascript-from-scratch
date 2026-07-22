@@ -14,3 +14,14 @@ console.log(firstName);
 
 // let 3years = 3;
 // let jonas&Matilda = "JM"
+// let new = "JM";
+
+// let Person = "Jonas"
+let person = "jonas";
+let PI = 3.1415;
+
+let myFirstJob = "Programmer";
+let myCurrentJob = "Teacher";
+
+let job1 = "Programmer";
+let job2 = "Teacher";
