@@ -6,7 +6,10 @@ console.log("Jonas");
 console.log(23);
 
 let firstName = "Matilda";
+
 console.log(firstName);
 console.log(firstName);
 console.log(firstName);
 console.log(firstName);
+
+// let 3years = 3;
